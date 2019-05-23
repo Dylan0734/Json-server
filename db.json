@@ -70,22 +70,24 @@
                   
     ],
     
-    "brands":[
-        {
-            "brand":"nike"
-        },
-        {
-            "brand":"adidas"
-        },
-        {
-            "brand":"globe"
-        },
-        {
-            "brand":"gucci"
-        },
-        {
-            "brand":"puma"
-        }
-    ]
-
+    "brands": [
+    {
+      "brand": "nike"
+    },
+    {
+      "brand": "adidas"
+    },
+    {
+      "brand": "iceice"
+    },
+    {
+      "brand": "mike"
+    },
+    {
+      "brand": "daje"
+    },
+    {
+      "brand": "gang"
+    }
+  ]
 }
