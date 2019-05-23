@@ -70,7 +70,8 @@
                   
     ],
     
-    "brands":[{
+    "brands":[
+        {
             "brand":"nike"
         },
         {
