@@ -5,7 +5,7 @@
         "desc":"Lorem Ipsum",
         "brand":"nike",
         "price":"12$",
-        "img":"http://lorempixel.com/g/700/400/*"
+        "img":"http://lorempixel.com/g/700/400/"
     }],
 
     "singleitems":[{
@@ -14,7 +14,7 @@
         "desc":"Lorem Ipsum",
         "brand":"nike",
         "price":"12$",
-        "img":"http://lorempixel.com/g/700/400/*"        
+        "img":"http://lorempixel.com/g/700/400/"        
     }]
 
 }
