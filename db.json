@@ -41,18 +41,21 @@
         "brand":"Difficile",
         "img":"http://www.parkourmalaysia.com/wp-content/uploads/2013/08/554192_505390506191205_2125557746_n.jpg"
         },
+        {
         "id":7,
         "title":"Backflip",
         "desc":"Salto mortale all'indietro.",
         "brand":"Difficile",
         "img":"https://www.liguritutti.it/wp-content/uploads/2018/03/parkour-beach-backflip-31kmhtkokznhehhwtnvda8.jpg"
         },
+        {
         "id":8,
         "title":"Sideflip",
         "desc":"Salto mortale laterale.",
         "brand":"Difficile",
         "img":"http://footage.framepool.com/shotimg/qf/608184242-side-flip-holi-shit-film-rincorsa-inseguire.jpg"
         },
+        {
         "id":9,
         "title":"Gainer",
         "desc":"Salto mortale all'indietro, ma eseguito durante una corsa corsa.",
@@ -105,18 +108,21 @@
         "brand":"Difficile",
         "img":"http://www.parkourmalaysia.com/wp-content/uploads/2013/08/554192_505390506191205_2125557746_n.jpg"
         },
+        {
         "id":7,
         "title":"Backflip",
         "desc":"Salto mortale all'indietro, che di base va eseguito da fermo. Spesso è utilizzato per scendere da un ostacolo sul quale si è saliti per fare scena.",
         "brand":"Difficile",
         "img":"https://www.liguritutti.it/wp-content/uploads/2018/03/parkour-beach-backflip-31kmhtkokznhehhwtnvda8.jpg"
         },
+        {
         "id":8,
         "title":"Sideflip",
         "desc":"Salto mortale laterale, forse il più difficile da apprendere a livello di posizionamento del corpo. In ogni caso, è sia veloce che comodo da effettuare, e spesso è il flip più utilizzato dai tracers esperti.",
         "brand":"Difficile",
         "img":"http://footage.framepool.com/shotimg/qf/608184242-side-flip-holi-shit-film-rincorsa-inseguire.jpg"
         },
+        {
         "id":9,
         "title":"Gainer",
         "desc":"Il gainer è un semplice backflip, ma che prevede uno spostamento in avanti. Spesso è eseguito in corsa, risultando particolarmente scenografico, poichè permette persino di rimettersi a correre subito dopo l'esecuzione, se effettuato come si deve.",
