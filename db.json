@@ -69,5 +69,22 @@
         }
                   
     ]
+    
+    "brands":[{
+            "brand":"nike"
+        },
+        {
+            "brand":"adidas"
+        },
+        {
+            "brand":"globe"
+        }
+        {
+            "brand":"gucci"
+        },
+        {
+            "brand":"puma"
+        }
+    ]
 
 }
