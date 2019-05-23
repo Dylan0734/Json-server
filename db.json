@@ -1,93 +1,143 @@
 {
-    "items":[{
+    "vaults":[{
         "id":1,
-        "title":"Post 1",
-        "desc":"Lorem Ipsum",
-        "brand":"nike",
-        "price":"12$",
-        "img":"http://lorempixel.com/g/700/400/"
+        "title":"Monkey",
+        "desc":"Salto di base per superare ostacoli medio-alti.",
+        "brand":"Facile",
+        "img":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/93d4591d-aed3-4404-8632-fd3af564cc1f/d1ivk9m-418ae9af-22ac-4499-b0b1-7a081f024d87.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkzZDQ1OTFkLWFlZDMtNDQwNC04NjMyLWZkM2FmNTY0Y2MxZlwvZDFpdms5bS00MThhZTlhZi0yMmFjLTQ0OTktYjBiMS03YTA4MWYwMjRkODcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.5ZuFWCw4fB-yykSXj-M7r4HHH8PjoCZZnjVCAmmjW6U"
         },
         {
         "id":2,
-        "title":"Post 2",
-        "desc":"Lorem Ipsum",
-        "brand":"adidas",
-        "price":"12$",
-        "img":"http://lorempixel.com/g/700/400/"
+        "title":"Speed",
+        "desc":"Vault di difficoltà base, molto rapido da eseguire.",
+        "brand":"Facile",
+        "img":"https://cdn2.omidoo.com/sites/default/files/imagecache/full_width/images/bydate/20130516/speedvault2.jpg"
         },
         {
         "id":3,
-        "title":"Post 3",
-        "desc":"Lorem Ipsum",
-        "brand":"iceice",
-        "price":"12$",
-        "img":"http://lorempixel.com/g/700/400/"
+        "title":"Dash",
+        "desc":"Vault puramente estetico, ma non molto semplice da realizzare",
+        "brand":"Normale",
+        "img":"https://i.ytimg.com/vi/-_FAx7dsbZQ/maxresdefault.jpg"
         },
         {
         "id":4,
-        "title":"Post 4",
-        "desc":"Lorem Ipsum",
-        "brand":"daje",
-        "price":"12$",
-        "img":"http://lorempixel.com/g/700/400/"
+        "title":"Kash",
+        "desc":"Una fusione fra il monkey ed il dash.",
+        "brand":"Normale",
+        "img":"https://i.ytimg.com/vi/wDE8y6QoD2w/maxresdefault.jpg"
+        },
+        {
+        "id":5,
+        "title":"Kong",
+        "desc":"Utilizzato per superare ostacoli lunghi.",
+        "brand":"Normale",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY7OnlIJNObNq8wIcksq5WJaZdJzf8hF-ZzQAsUrgEOl9gwg7c"
+        },
+        {
+        "id":6,
+        "title":"Frontflip",
+        "desc":"Salto mortale in avanti.",
+        "brand":"Difficile",
+        "img":"http://www.parkourmalaysia.com/wp-content/uploads/2013/08/554192_505390506191205_2125557746_n.jpg"
+        },
+        "id":7,
+        "title":"Backflip",
+        "desc":"Salto mortale all'indietro.",
+        "brand":"Difficile",
+        "img":"https://www.liguritutti.it/wp-content/uploads/2018/03/parkour-beach-backflip-31kmhtkokznhehhwtnvda8.jpg"
+        },
+        "id":8,
+        "title":"Sideflip",
+        "desc":"Salto mortale laterale.",
+        "brand":"Difficile",
+        "img":"http://footage.framepool.com/shotimg/qf/608184242-side-flip-holi-shit-film-rincorsa-inseguire.jpg"
+        },
+        "id":9,
+        "title":"Gainer",
+        "desc":"Salto mortale all'indietro, ma eseguito durante una corsa corsa.",
+        "brand":"Molto Difficile",
+        "img":"https://i.ytimg.com/vi/_lmz72zjVMw/maxresdefault.jpg"
         }
     ],
     
     
 
-    "singleitems":[{
+    "singlevault":[{
         "id":1,
-        "title":"Post 1",
-        "desc":"Lorem Ipsum",
-        "brand":"nike",
-        "price":"12$",
-        "img":"http://lorempixel.com/g/700/400/"        
+        "title":"Monkey",
+        "desc":"Il monkey è, spesso e volentieri, il primo vault che vi sarà insegnato dal vostro istruttore. È un salto molto semplice, ma molto efficace, al punto da essere utlizzato spesso ancohe da tracers professionisti.",
+        "brand":"Facile",
+        "img":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/93d4591d-aed3-4404-8632-fd3af564cc1f/d1ivk9m-418ae9af-22ac-4499-b0b1-7a081f024d87.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkzZDQ1OTFkLWFlZDMtNDQwNC04NjMyLWZkM2FmNTY0Y2MxZlwvZDFpdms5bS00MThhZTlhZi0yMmFjLTQ0OTktYjBiMS03YTA4MWYwMjRkODcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.5ZuFWCw4fB-yykSXj-M7r4HHH8PjoCZZnjVCAmmjW6U"
         },
         {
         "id":2,
-        "title":"Post 2",
-        "desc":"Lorem Ipsum",
-        "brand":"adidas",
-        "price":"12$",
-        "img":"http://lorempixel.com/g/700/400/"
+        "title":"Speed",
+        "desc":"Lo speed vault punta tutto sulla velocità di esecuzione e di ripresa dopo il superamento dell'ostacolo. Atterrando su una gamba sola, sarai in grdo di rimetterti a correre istantaneamente.",
+        "brand":"Facile",
+        "img":"https://cdn2.omidoo.com/sites/default/files/imagecache/full_width/images/bydate/20130516/speedvault2.jpg"
         },
         {
         "id":3,
-        "title":"Post 3",
-        "desc":"Lorem Ipsum",
-        "brand":"iceice",
-        "price":"12$",
-        "img":"http://lorempixel.com/g/700/400/"
+        "title":"Dash",
+        "desc":"Il dash è uno dei vault più difficili. Consiste di superare l'ostacolo in un salto unico, per poi utilizzare le mani poco prima dell'atterraggio per attutire il colpo sull'ostacolo, e rimetersi a correre.",
+        "brand":"Normale",
+        "img":"https://i.ytimg.com/vi/-_FAx7dsbZQ/maxresdefault.jpg"
         },
         {
         "id":4,
-        "title":"Post 4",
-        "desc":"Lorem Ipsum",
-        "brand":"daje",
-        "price":"12$",
-        "img":"http://lorempixel.com/g/700/400/"
+        "title":"Kash",
+        "desc":"Il kash è letteralmente una via di mezzo fra il monkey ed il dash. È più semplice del dash, ma di minore impatto. Spesso viene confuso per il double kong, salto ben più difficile da apprendere.",
+        "brand":"Normale",
+        "img":"https://i.ytimg.com/vi/wDE8y6QoD2w/maxresdefault.jpg"
+        },
+        {
+        "id":5,
+        "title":"Kong",
+        "desc":"Il kong è uno dei vault più difficili, poichè consiste nello scaricare tutta la potenza del salto sulle braccia e sulle spalle, per superare in sicurezza un ostacolo relativamente lungo.",
+        "brand":"Normale",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY7OnlIJNObNq8wIcksq5WJaZdJzf8hF-ZzQAsUrgEOl9gwg7c"
+        },
+        {
+        "id":6,
+        "title":"Frontflip",
+        "desc":"Il classico salto mortale in avanti. Puù essere eseguito da fermo oppure da in corsa; in ogni caso, farà sempre molta scena.",
+        "brand":"Difficile",
+        "img":"http://www.parkourmalaysia.com/wp-content/uploads/2013/08/554192_505390506191205_2125557746_n.jpg"
+        },
+        "id":7,
+        "title":"Backflip",
+        "desc":"Salto mortale all'indietro, che di base va eseguito da fermo. Spesso è utilizzato per scendere da un ostacolo sul quale si è saliti per fare scena.",
+        "brand":"Difficile",
+        "img":"https://www.liguritutti.it/wp-content/uploads/2018/03/parkour-beach-backflip-31kmhtkokznhehhwtnvda8.jpg"
+        },
+        "id":8,
+        "title":"Sideflip",
+        "desc":"Salto mortale laterale, forse il più difficile da apprendere a livello di posizionamento del corpo. In ogni caso, è sia veloce che comodo da effettuare, e spesso è il flip più utilizzato dai tracers esperti.,
+        "brand":"Difficile",
+        "img":"http://footage.framepool.com/shotimg/qf/608184242-side-flip-holi-shit-film-rincorsa-inseguire.jpg"
+        },
+        "id":9,
+        "title":"Gainer",
+        "desc":"Il gainer è un semplice backflip, ma che prevede uno spostamento in avanti. Spesso è eseguito in corsa, risultando particolarmente scenografico, poichè permette persino di rimettersi a correre subito dopo l'esecuzione, se effettuato come si deve.",
+        "brand":"Molto Difficile",
+        "img":"https://i.ytimg.com/vi/_lmz72zjVMw/maxresdefault.jpg"
         }
                   
     ],
     
     "brands": [
     {
-      "brand": "nike"
+      "brand": "Facile"
     },
     {
-      "brand": "adidas"
+      "brand": "Normale"
     },
     {
-      "brand": "iceice"
+      "brand": "Difficile"
     },
     {
-      "brand": "mike"
-    },
-    {
-      "brand": "daje"
-    },
-    {
-      "brand": "gang"
+      "brand": "Molto Difficile"
     }
   ]
 }
