@@ -6,7 +6,34 @@
         "brand":"nike",
         "price":"12$",
         "img":"http://lorempixel.com/g/700/400/"
-    }],
+        },
+        {
+        "id":2,
+        "title":"Post 2",
+        "desc":"Lorem Ipsum",
+        "brand":"nike",
+        "price":"12$",
+        "img":"http://lorempixel.com/g/700/400/"
+        },
+        {
+        "id":3,
+        "title":"Post 3",
+        "desc":"Lorem Ipsum",
+        "brand":"nike",
+        "price":"12$",
+        "img":"http://lorempixel.com/g/700/400/"
+        },
+        {
+        "id":4,
+        "title":"Post 4",
+        "desc":"Lorem Ipsum",
+        "brand":"nike",
+        "price":"12$",
+        "img":"http://lorempixel.com/g/700/400/"
+        }
+    ],
+    
+    
 
     "singleitems":[{
         "id":1,
@@ -15,6 +42,32 @@
         "brand":"nike",
         "price":"12$",
         "img":"http://lorempixel.com/g/700/400/"        
-    }]
+        },
+        {
+        "id":2,
+        "title":"Post 2",
+        "desc":"Lorem Ipsum",
+        "brand":"nike",
+        "price":"12$",
+        "img":"http://lorempixel.com/g/700/400/"
+        },
+        {
+        "id":3,
+        "title":"Post 3",
+        "desc":"Lorem Ipsum",
+        "brand":"nike",
+        "price":"12$",
+        "img":"http://lorempixel.com/g/700/400/"
+        },
+        {
+        "id":4,
+        "title":"Post 4",
+        "desc":"Lorem Ipsum",
+        "brand":"nike",
+        "price":"12$",
+        "img":"http://lorempixel.com/g/700/400/"
+        }
+                  
+    ]
 
 }
